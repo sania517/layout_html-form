@@ -1,0 +1,27 @@
+
+.field-set {
+  margin-bottom: 20px;
+  padding-bottom: 4px;
+
+}
+
+.registration {
+  padding-bottom: 0;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.radio-button {
+  margin-bottom: 14px;
+}
+
+#rate {
+  margin-top: 12px;
+}
+
+#recommend {
+  margin-top: 10px;
+  margin-bottom: 6px;
+}
