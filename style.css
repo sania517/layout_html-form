@@ -15,11 +15,15 @@
   margin-bottom: 14px;
 }
 
-#rate {
+.rate {
   margin-top: 12px;
 }
 
-#recommend {
+.recommend {
   margin-top: 10px;
   margin-bottom: 6px;
+}
+
+.label {
+  display: block;
 }
