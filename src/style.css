@@ -1,29 +1,13 @@
-.field-set {
-  margin-bottom: 20px;
-  padding-bottom: 4px;
-}
-
-.registration {
-  padding-bottom: 0;
-}
-
-.input {
+.label-offset {
+  display: block;
   margin-bottom: 10px;
 }
 
-.radio-button {
-  margin-bottom: 14px;
+.field-set-offset {
+  margin-bottom: 20px;
+  padding-bottom: 0;
 }
 
-.rate {
-  margin-top: 12px;
-}
-
-.recommend {
-  margin-top: 10px;
-  margin-bottom: 6px;
-}
-
-.label {
-  display: block;
+.box-for-chekbox {
+  margin-bottom: 10px;
 }
